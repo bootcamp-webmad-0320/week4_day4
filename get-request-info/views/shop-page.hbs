@@ -1,0 +1,24 @@
+<h1>Soy la tienda!</h1>
+
+<hr>
+
+<h3>Enlace con Route Params:</h3>
+<a class="btn btn-md btn-dark" href="/tienda/ropa/invierno/abrigo">Ver URL params</a>
+
+<hr>
+
+<h3>Enlace con Query Strings:</h3>
+<a class="btn btn-md btn-dark" href="/tienda/buscar/?name=pantalon&size=XL&color=rojo">Ver Query
+    strings</a>
+
+<hr>
+
+<h3>Formulario con query strings</h3>
+
+<form method="GET" action="/tienda/buscar">
+    Nombre: <input type="text" name="name">
+    Talla: <input type="text" name="size">
+    Color: <input type="text" name="color">
+
+    <button type="submit">Buscar</button>
+</form>

@@ -1,0 +1,17 @@
+body {
+  font-family: sans-serif;
+  font-weight: 100; }
+
+h1, h2, h3 {
+  font-weight: 100; }
+
+h1 {
+  margin-bottom: 50px; }
+
+h3 {
+  font-size: 1.5em; }
+
+.container {
+  padding-top: 50px; }
+
+/*# sourceMappingURL=style.css.map */
