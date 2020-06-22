@@ -4,7 +4,6 @@
 >
 > Express | Requesta body (POST)
 
-Vídeo completo [en este enlace](https://ironhack.zoom.us/rec/share/7sBocb7NrF1OGonM9WbHX6cREoTIX6a82iMZ_KZcxEqFiOc5NZd3391AuJtk1qIf)
 
 
 ## Main points: MVC
